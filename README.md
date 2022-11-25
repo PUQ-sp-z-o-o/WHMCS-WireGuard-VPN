@@ -42,8 +42,8 @@ Available options in the client panel:
 
 - - - - - -
 
-<p class="callout warning">WHMCS minimal version: 8 +</p>
+WHMCS minimal version: 8 +
 
-<p class="callout warning">[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description): 1.1 +</p>
+[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description): 1.1 +
 
 [![image-1669367470443.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1669367470443.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1669367470443.png)
