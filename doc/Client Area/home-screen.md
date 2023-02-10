@@ -2,7 +2,7 @@
 
 #####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/)
 
-##### Basic information on client panel page
+### Basic information on client panel page
 
 **VPN Protocols:** VPN protocols that are available
 
