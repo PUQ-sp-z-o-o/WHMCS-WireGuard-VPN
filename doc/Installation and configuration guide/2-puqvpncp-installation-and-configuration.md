@@ -1,12 +1,12 @@
 # 2. PUQVPNCP installation and configuration
 
-##### Official documentation:  
-  
-[PUQVPNCP Documentation](https://doc.puq.info/books/puqvpncp/page/description)  
-[PUQVPNCP Download](https://download.puqcloud.com/cp/puqvpncp/)  
-[PUQVPNCP Order now](https://panel.puqcloud.com/index.php?rp=/store/puqvpn)
+>### Official documentation:  
+>  
+>[PUQVPNCP Documentation](https://doc.puq.info/books/puqvpncp/page/description)  
+>[PUQVPNCP Download](https://download.puqcloud.com/cp/puqvpncp/)  
+>[PUQVPNCP Order now](https://panel.puqcloud.com/index.php?rp=/store/puqvpn)
 
-#### **1. Install the required packages**
+### **1. Install the required packages**
 
 ```shell
 apt-get update
@@ -15,18 +15,18 @@ apt-get install iproute2 iptables -y
 apt-get install bind9 -y
 ```
 
-#### 2. **Download the latest version of the package**
+### 2. **Download the latest version of the package**
 
 [https://download.puqcloud.com/cp/puqvpncp/](https://download.puqcloud.com/cp/puqvpncp/)
 
-#### 3. Install the puqvpncp package
+### 3. Install the puqvpncp package
 
 ```shell
 wget https://download.puqcloud.com/cp/puqvpncp/puqvpncp_1.1-2_amd64.deb
 dpkg -i puqvpncp_1.1-2_amd64.deb
 ```
 
-#### 4. After installation, connect to your server via a web browser.
+### 4. After installation, connect to your server via a web browser.
 
 http://SERVER\_IP:8098  
 Username: admin  
@@ -36,7 +36,7 @@ Password: admin
 
 [![image-1668690609770.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668690609770.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668690609770.png)
 
-#### **5. Enable SSL Let’s Encrypt** 
+### **5. Enable SSL Let’s Encrypt** 
 
 **Requirements**
 
@@ -62,15 +62,15 @@ Restart the **PUQVPNCP** service
 service puqvpncp restart
 ```
 
-<p class="callout info">After these steps, the first time you connect to the server via the https protocol, the system will request an SSL certificate and automatically renew it if necessary.</p>
+>After these steps, the first time you connect to the server via the https protocol, the system will request an SSL certificate and automatically renew it if necessary.
 
-<p class="callout warning">ATTENTION. After activating SSL, the system will only work in the https protocol on port 443.   
-A redirect is also set from port 80 to port 443.</p>
+>>ATTENTION. After activating SSL, the system will only work in the https protocol on port 443.   
+A redirect is also set from port 80 to port 443.
 
-<p class="callout warning">To connect to the server via the https protocol, use only the domain that was set in the configuration file.   
-Otherwise, you will get an error that SSL is not working correctly.</p>
+>>To connect to the server via the https protocol, use only the domain that was set in the configuration file.   
+Otherwise, you will get an error that SSL is not working correctly.
 
-#### 6. License configuration is available in the menu item **Settings-&gt;License**
+### 6. License configuration is available in the menu item **Settings-&gt;License**
 
 [![image-1668763551186.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668763551186.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668763551186.png)
 
@@ -80,7 +80,7 @@ In order to activate the license key, the key must be entered in the "License Ke
 
 [![image-1668764171867.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1668764171867.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1668764171867.png)
 
-#### **7.Creation of access API**
+### **7.Creation of access API**
 
 To manage API Access Hashs, go to the section Settings-&gt;API
 
@@ -88,13 +88,13 @@ To manage API Access Hashs, go to the section Settings-&gt;API
 
 **Enter the name and IP address of the WHMCS server and click the ADD button**
 
-<p class="callout warning">**Attention.   
-The generated Access hash will only be shown once. Copy it, it will be needed during configuration of the product server in the WHMCS system.**</p>
+>>**Attention.   
+The generated Access hash will only be shown once. Copy it, it will be needed during configuration of the product server in the WHMCS system.**
 
-<p class="callout info">Accept the fact that once the Access Hashs API is created, it will only be shown once.  
-Each API Access Hash only works from a specific IP address.</p>
+>Accept the fact that once the Access Hashs API is created, it will only be shown once.  
+Each API Access Hash only works from a specific IP address.
 
-#### **8. Creation of access API**
+### **8. Creation of access API**
 
 Add new WireGuard is available in the menu item **VPN servers-&gt;WireGuard-&gt;Click Create**
 
