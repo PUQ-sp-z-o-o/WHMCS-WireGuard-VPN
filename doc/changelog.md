@@ -1,6 +1,8 @@
 # Changelog
 
-##### v1.2 Released 08-01-2023
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
+
+### v1.2 Released 08-01-2023
 
 1. Fix bugs with languages
 2. Added ability to download profile for IKEv2
@@ -8,7 +10,7 @@
 
 - - - - - -
 
-##### v1.1 Released 05-01-2023
+### v1.1 Released 05-01-2023
 
 1. Support WHMCS V8.6
 2. Support IonCube PHP Loader v12
@@ -17,6 +19,6 @@
 
 - - - - - -
 
-##### v1.0 Released 29-10-2022
+### v1.0 Released 29-10-2022
 
 First version
