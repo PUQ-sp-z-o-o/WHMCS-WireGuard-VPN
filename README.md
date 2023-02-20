@@ -11,7 +11,7 @@ Provision VPN accounts using WireGuard via WHMCS module. Uses only PUQVPNCP
 >  
 >[PUQVPNCP Documentation](https://doc.puq.info/books/puqvpncp/page/description)  
 >[PUQVPNCP Download](https://download.puqcloud.com/cp/puqvpncp/)  
->[PUQVPNCP Order now](https://panel.puqcloud.com/index.php?rp=/store/puqvpn)
+>[PUQVPNCP Order now](https://puqcloud.com/index.php?rp=/store/puqvpn)
 
 ###  
 
