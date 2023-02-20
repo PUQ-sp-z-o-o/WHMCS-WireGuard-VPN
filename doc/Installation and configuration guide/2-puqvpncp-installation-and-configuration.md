@@ -1,10 +1,12 @@
 # 2. PUQVPNCP installation and configuration
 
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
+
 >### Official documentation:  
 >  
 >[PUQVPNCP Documentation](https://doc.puq.info/books/puqvpncp/page/description)  
 >[PUQVPNCP Download](https://download.puqcloud.com/cp/puqvpncp/)  
->[PUQVPNCP Order now](https://panel.puqcloud.com/index.php?rp=/store/puqvpn)
+>[PUQVPNCP Order now](https://puqcloud.com/index.php?rp=/store/puqvpn)
 
 ### **1. Install the required packages**
 
