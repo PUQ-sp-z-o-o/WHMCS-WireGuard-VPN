@@ -1,0 +1,72 @@
+# Email Template (puqWireGuard Custom welcome email template)
+
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
+
+##### Create an email template for customer notifications.
+
+```
+System Settings->Email Templates->Create New Email Template
+```
+
+- **Email Type:** Product/service
+
+**Unique Name:** puqWireGuard Custom welcome email template
+
+[![image-1683735003172.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1683735003172.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1683735003172.png)
+
+**Subject:**
+
+```
+Welcome to Your New VPN Service - Connection Information Enclosed
+```
+
+**Body:**
+
+```
+Dear {$client_name},
+
+Congratulations and welcome to your new VPN service! We are excited to have you on board, and we appreciate your trust in us to provide you with a secure, private, and fast online experience.
+
+To get started, please find your VPN connection details below:
+
+Username: {$user}
+Password: {$password}
+Server Hostname: {$server_hostname}
+Available connection protocols: {$protocol}
+
+
+One-time link where you will find all comprehensive information:
+{$otl}
+Here you will find all the information about the possibility of connecting to a VPN service.
+Attention! You can use this link only once, if you need to get the login data from the link again, use the client panel to generate a new link.
+
+Android app download link: https://play.google.com/store/apps/details?id=com.wireguard.android
+
+iPhone app download link: https://apps.apple.com/us/app/wireguard/id1441195209
+
+To quickly connect after downloading the official WireGuard app for your device, scan the QR code below.
+
+{$qrimage_small}
+small size
+
+{$qrimage_medium}
+medium size
+
+{$qrimage_large}
+large size
+
+{$qrimage_max}
+max size
+
+You can use these credentials to connect to our VPN service using your preferred VPN client or app. If you need assistance with setting up the connection or require a step-by-step guide, please visit our support page: [your-company-support-page-link].
+
+For your convenience, we have also attached a detailed user manual to this email. The manual will provide you with comprehensive instructions on how to use our service and configure your VPN connection.
+
+Please keep this email safe, as it contains sensitive information about your VPN account. We strongly advise you not to share your login credentials with anyone.
+
+Once again, thank you for choosing our VPN service. We are committed to providing you with the best online experience, and we look forward to serving you.
+
+{$signature}
+```
+
+[![image-1683735378651.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1683735378651.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1683735378651.png)
