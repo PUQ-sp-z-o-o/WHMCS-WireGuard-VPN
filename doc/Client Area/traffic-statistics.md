@@ -2,7 +2,7 @@
 
 #####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/)
 
-##### This page displays information about client traffic statistics
+### This page displays information about client traffic statistics
 
 **Month:** In this field, you can select the month for which you want to view traffic data
 
