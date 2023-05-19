@@ -1,6 +1,6 @@
 # Traffic statistics
 
-#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/)
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
 ### This page displays information about client traffic statistics
 
