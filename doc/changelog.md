@@ -2,6 +2,13 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.3 Released 19-05-2023
+
+1. Added a section in the client area that displays usage statistics by traffic
+2. Added necessary translation strings
+
+- - - - - -
+
 ### v1.2.1 Released 12-05-2023
  
 1. Fixed bug with time offset in the admin area
