@@ -2,6 +2,14 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.3.5 Released 31-05-2023
+
+1. Added the ability to change localization (updating the package and switching the server at the client's request)
+2. Added the ability to send QR codes and other important information via email when changing localization/package. This functionality is implemented as a custom email about localization/package change
+3. Fixed some bugs
+
+- - - - - -
+
 ### v1.3 Released 19-05-2023
 
 1. Added a section in the client area that displays usage statistics by traffic
