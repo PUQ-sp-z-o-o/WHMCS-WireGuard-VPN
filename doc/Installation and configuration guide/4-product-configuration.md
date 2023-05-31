@@ -10,7 +10,7 @@ System Settings->Products/Services->Create a New Product
 
 In the **Module settings** section, select the **"PUQ WireGuard VPN"** module
 
-[![image-1669372410140.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1669372410140.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1669372410140.png)
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-WireGuard-VPN/assets/81689153/06a99f12-c54a-4863-abbc-3b1bb503adc3)
 
 - **License key:** A pre-purchased license key for the **"PUQ WireGuard VPN"** module. For the module to work correctly, the key must be active
 
@@ -20,11 +20,15 @@ In the **Module settings** section, select the **"PUQ WireGuard VPN"** module
 
 ### Link settings
 
-- **Link to instruction-** If you have prepared instructions for your customers on how to use the service, then a link to the instructions is provided here (If filled, it will be shown in the client area)
-- **Link to VPN clients-** Link to download the VPN client. For example [https://www.wireguard.com/install/](https://www.wireguard.com/install/) (If filled, it will be shown in the client area)
+- **Link to instruction -** If you have prepared instructions for your customers on how to use the service, then a link to the instructions is provided here (If filled, it will be shown in the client area)
+- **Link to VPN clients -** Link to download the VPN client. For example [https://www.wireguard.com/install/](https://www.wireguard.com/install/) (If filled, it will be shown in the client area)
+
+### E-mail configuration
+- **Custom Welcome Email** - Drop-down list of available e-mail templates for the action of creating a new client account. Please note that it is necessary to disable the standard welcome email in order to avoid double notification
+- **Custom Change localization Email** - Drop-down list of available e-mail templates for the localization change action (package change) for the client account. Please note that you need to disable the standard package change email to avoid double notification.
 
 
 ### VPN users settings
 
 - **Bandwidth Download** - Bandwidth Download of VPN accounts <span style="color: #ff00ff;">**(package change)**</span>
-- **Bandwidth Upload-** BandwidthUpload of VPN accounts <span style="color: #ff00ff;">**(package change)**</span>
+- **Bandwidth Upload -** BandwidthUpload of VPN accounts <span style="color: #ff00ff;">**(package change)**</span>
