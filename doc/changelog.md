@@ -2,6 +2,13 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.3.6 Released 13-06-2023
+ 
+1. Fixed a bug that occurred in the client area if the IKEv2 protocol was disabled
+
+- - - - - -
+
+
 ### v1.3.5 Released 31-05-2023
 
 1. Added the ability to change localization (updating the package and switching the server at the client's request)
