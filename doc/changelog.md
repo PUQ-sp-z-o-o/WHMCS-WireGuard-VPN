@@ -2,13 +2,18 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.4.1 Released 29-06-2023
+1. Redesigned error handling
+2. Added additional logging to Activity Log
+
+- - - - - -
+
 ### v1.4 Released 16-06-2023
  
 1. Significantly revised the approach to transferring the QR code image in emails. Now, WHMCS generates a link to the image, and only the link to the image is included in the email itself
 2. Fixed some bugs
 
 - - - - - -
-
 
 ### v1.3.6 Released 13-06-2023
  
