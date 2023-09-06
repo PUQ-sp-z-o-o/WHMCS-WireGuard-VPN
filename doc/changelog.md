@@ -2,6 +2,12 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.4.2 Released 04-09-2023
+1. Error handling when changing package to change localization
+2. Added additional logging to Activity Log
+
+- - - - - -
+
 ### v1.4.1 Released 29-06-2023
 1. Redesigned error handling
 2. Added additional logging to Activity Log
