@@ -2,13 +2,24 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.4.5 Released 09-10-2023
+
+1. Supported WHMCS v8.8.0
+2. Translations added/updated **(Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)**
+3. Added additional error logging to Log when changing package to change localization
+4. Fixed some bugs
+
+- - - - - -
+
 ### v1.4.2 Released 04-09-2023
+
 1. Error handling when changing package to change localization
 2. Added additional logging to Activity Log
 
 - - - - - -
 
 ### v1.4.1 Released 29-06-2023
+
 1. Redesigned error handling
 2. Added additional logging to Activity Log
 
