@@ -46,4 +46,4 @@ Available options in the client panel:
 
 >[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description): 1.1 +
 
-[![image-1673005500349.png](https://doc.puq.info/uploads/images/gallery/2023-01/scaled-1680-/image-1673005500349.png)](https://doc.puq.info/uploads/images/gallery/2023-01/image-1673005500349.png)
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-WireGuard-VPN/assets/81689153/788e8a05-3429-40df-bc53-757257b1829e)
